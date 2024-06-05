@@ -1,10 +1,12 @@
 #id {
-    height: 400px;
+    height: 600px;
     width: 400px;
     background-color: yellow;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 0px;
+    border: 5px solid black;
 }
 
 #id2 {
@@ -12,4 +14,7 @@
     width: 200px;
     color: white;
     background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
