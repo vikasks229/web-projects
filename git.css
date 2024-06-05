@@ -1,0 +1,15 @@
+#id {
+    height: 400px;
+    width: 400px;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#id2 {
+    height: 200px;
+    width: 200px;
+    color: white;
+    background-color: black;
+}
